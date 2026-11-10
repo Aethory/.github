@@ -1,16 +1,22 @@
+ <div align="center">
+
 # Aethory
 
-<p align="center">
-  <em>Fun, innovation and winning is life, and so is open sourcing!</em>
+<img src="./aethory-logo.png" alt="Aethory Logo" width="150" />
+
+### Fun, innovation, winning is life, and so is open sourcing!
+
+<p>
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-222222?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-222222?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUILDING%20TOGETHER-222222?style=flat-square&logo=githubsponsors&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-101010?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-101010?style=flat-square&logo=bookstack&logoColor=white" alt="Always Learning" />
-  <img src="https://img.shields.io/badge/BUILT%20WITH%20CURIOSITY-101010?style=flat-square" alt="Built with Curiosity" />
-</p>
+</div>
 
 ---
+
+## Who We Are
 
 We're a group of friends creating things that may or may not interest you.
 
@@ -18,12 +24,12 @@ We build for fun, curiosity and innovation. We experiment with ideas, explore te
 
 Our creativity is boundless. Our stupidity is too.
 
-## What We're Into
+## What We Do
 
-- **Software** - Applications, tools and digital experiences.
-- **Open Source** - Sharing what we build and learning from the community.
-- **Experiments** - Trying unusual ideas just to see what happens.
-- **Research & Innovation** - Exploring new concepts and figuring things out.
+- **Software** · Applications, tools and digital experiences.
+- **Open Source** · Sharing our work and learning from the community.
+- **Experiments** · Exploring unusual ideas and seeing where they lead.
+- **Research & Innovation** · Learning, discovering and trying new things.
 
 ## Our Take on AI
 
@@ -33,9 +39,7 @@ But there's more to it.
 
 We're learners. We're exploring, understanding and improving our skills. AI helps us experiment, learn concepts, solve problems and build things we might not have been able to build otherwise.
 
-We believe access to learning shouldn't depend on how much money someone has.
-
-Not everyone can afford expensive coding courses or private tuition. We support using AI responsibly as a learning companion, especially for people learning to code from home.
+We believe access to learning shouldn't depend on how much money someone has. Not everyone can afford expensive coding courses or private tuition. We support using AI responsibly as a learning companion, especially for people learning to code from home.
 
 **But using AI isn't the same as understanding what it produces.**
 
@@ -43,7 +47,7 @@ We don't support using AI for plagiarism, deception, cheating or harmful purpose
 
 Our long-term goal is to grow beyond simply using existing tools and create our own projects, systems and technology.
 
-We're not claiming to know everything. We're here to learn until we do.
+We're not claiming to know everything. We're here to learn and improve.
 
 ## The People Behind Aethory
 
@@ -64,8 +68,8 @@ We build because we enjoy building. We share because others might find it useful
 
 ---
 
-<p align="center">
+<div align="center">
   <sub>Never underestimate a small idea. Open-source it, and let the world take it further.</sub>
   <br />
   <sub>© Aethory</sub>
-</p>
+</div>
