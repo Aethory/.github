@@ -97,7 +97,7 @@ But there's a difference between using a tool to learn and using it to avoid lea
 
 We stand against using AI for plagiarism, deception, cheating or harmful purposes.
 
-But trust my words this much, we do condone use of ai and might even make works fully of ai, but later when we are bored or found a purpose. we will return and make every project humanised.
+But trust my words this much, we do condone use of ai and might even make works fully of ai, but later when we are bored or find a purpose. we will return and make every project humanised.
 
 Supporting us and our works will not only let us learn and grow but let our works and believes, work for different people. 
 
