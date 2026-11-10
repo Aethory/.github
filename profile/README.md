@@ -1,26 +1,31 @@
- <div align="center">
+ 
+<div align="center">
 
-<img src="./aethory-logo.png" width="170" alt="Aethory logo" />
+<img src="./aethory-logo.png" width="145" alt="Aethory logo" />
 
 # A E T H O R Y
 
-### Fun. Innovation. Winning. Open Source.
-
-*An independent creative collective.*
+<p><i>Fun. Innovation and Winning is Life, and so is Open Source!</i></p>
 
 <br />
 
 <a href="https://github.com/Aethory">
-  <img src="https://img.shields.io/badge/GitHub-Aethory-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Independent-Collective-29372F?style=flat-square&labelColor=171C19" />
 </a>
-<img src="https://img.shields.io/badge/OPEN--SOURCE-Community-3D7058?style=for-the-badge" alt="Open Source" />
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING-3D7058?style=for-the-badge" alt="Always Learning" />
+&nbsp;
+<a href="https://github.com/Aethory">
+  <img src="https://img.shields.io/badge/Projects-Open%20Source-29372F?style=flat-square&labelColor=171C19" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Always%20Learning-29372F?style=flat-square&labelColor=171C19" />
 
 <br /><br />
 
-**Ideas are everywhere. We just like turning them into things.**
+<sub>Creating, experimenting and learning. One idea at a time.</sub>
 
 </div>
+
+---
 
 ---
 
@@ -31,6 +36,8 @@ We're a group of friends creating things that may or may not interest you.
 We build for fun, curiosity and innovation. We experiment, explore technology and turn random thoughts into actual projects.
 
 Our creativity is boundless. Our stupidity is too.
+
+We two are always in those innovation competitons and groups, science is life for us!
 
 ## 02 / What we're into
 
@@ -96,16 +103,49 @@ Supporting us and our works will not only let us learn and grow but let our work
 
 **Our goal isn't to depend on AI forever. It's to learn enough to create things of our own.**
 
-## 04 / The people
 
-Two friends. One shared space to build, experiment and learn.
+## 04 / The People Behind Aethory
 
 <div align="center">
 
-| SENKUDEVX | FLABBYGO |
-|:---:|:---:|
-| Founder | Founder |
-| [GitHub ↗](https://github.com/SENKUDEVX) | [GitHub ↗](https://github.com/Flabbygo) |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SENKUDEVX">
+        <img src="https://github.com/SENKUDEVX.png?size=180"
+             width="120"
+             alt="SenkuDevX" />
+      </a>
+      <br />
+      <strong>SenkuDevX</strong>
+      <br />
+      <sub>Co-founder</sub>
+      <br /><br />
+      <a href="https://github.com/SENKUDEVX">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Flabbygo">
+        <img src="https://github.com/Flabbygo.png?size=180"
+             width="120"
+             alt="Flabbygo" />
+      </a>
+      <br />
+      <strong>Flabbygo</strong>
+      <br />
+      <sub>Co-founder</sub>
+      <br /><br />
+      <a href="https://github.com/Flabbygo">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<sub>Two founders. Equal ownership. One shared Goal.</sub>
 
 </div>
 
@@ -120,6 +160,10 @@ Two friends. One shared space to build, experiment and learn.
 We don't expect every experiment to become a success. Some projects will be useful, some will be weird, and some will probably fail.
 
 That's part of building things.
+
+## 06 / Projects
+
+We arent really working on anything right now. when we do its name,descriptions,status and many more stuff will be mentioned. stay tuned!
 
 ---
 
