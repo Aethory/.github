@@ -1,75 +1,134 @@
  <div align="center">
 
-# Aethory
+<img src="./aethory-logo.png" width="170" alt="Aethory logo" />
 
-<img src="./aethory-logo.png" alt="Aethory Logo" width="150" />
+# A E T H O R Y
 
-### Fun, innovation, winning is life, and so is open sourcing!
+### Fun. Innovation. Winning. Open Source.
 
-<p>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-222222?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-222222?style=flat-square&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUILDING%20TOGETHER-222222?style=flat-square&logo=githubsponsors&logoColor=white" />
-</p>
+*An independent creative collective.*
+
+<br />
+
+<a href="https://github.com/Aethory">
+  <img src="https://img.shields.io/badge/GitHub-Aethory-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/OPEN--SOURCE-Community-3D7058?style=for-the-badge" alt="Open Source" />
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-3D7058?style=for-the-badge" alt="Always Learning" />
+
+<br /><br />
+
+**Ideas are everywhere. We just like turning them into things.**
 
 </div>
 
 ---
 
-## Who We Are
+## 01 / A little about us
 
 We're a group of friends creating things that may or may not interest you.
 
-We build for fun, curiosity and innovation. We experiment with ideas, explore technology and turn random thoughts into actual projects.
+We build for fun, curiosity and innovation. We experiment, explore technology and turn random thoughts into actual projects.
 
 Our creativity is boundless. Our stupidity is too.
 
-## What We Do
+## 02 / What we're into
 
-- **Software** · Applications, tools and digital experiences.
-- **Open Source** · Sharing our work and learning from the community.
-- **Experiments** · Exploring unusual ideas and seeing where they lead.
-- **Research & Innovation** · Learning, discovering and trying new things.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Our Take on AI
+### 💻 Software
 
-We use AI. A lot of what we build and experiment with involves it, and from the outside, we might even look like an AI-focused group.
+Applications, tools and digital experiences built around ideas worth exploring.
 
-But there's more to it.
+</td>
+<td width="50%" valign="top">
 
-We're learners. We're exploring, understanding and improving our skills. AI helps us experiment, learn concepts, solve problems and build things we might not have been able to build otherwise.
+### 🌐 Open Source
 
-We believe access to learning shouldn't depend on how much money someone has. Not everyone can afford expensive coding courses or private tuition. We support using AI responsibly as a learning companion, especially for people learning to code from home.
+Sharing our work, learning from others and contributing to the wider community.
 
-**But using AI isn't the same as understanding what it produces.**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-We don't support using AI for plagiarism, deception, cheating or harmful purposes. We want people to learn, question, understand and eventually build independently.
+### ⚗️ Experiments
 
-Our long-term goal is to grow beyond simply using existing tools and create our own projects, systems and technology.
+Unusual concepts, random ideas and projects that start with "What if?"
 
-We're not claiming to know everything. We're here to learn and improve.
+</td>
+<td width="50%" valign="top">
 
-## The People Behind Aethory
+### 🔬 Research & Innovation
 
-Aethory was started by two friends who share an interest in building, experimenting and learning.
+Discovering new possibilities, understanding technology and pushing our skills further.
 
-| Founder | GitHub |
-| :--- | :--- |
-| **SenkuDevX** | [@SENKUDEVX](https://github.com/SENKUDEVX) |
-| **Flabbygo** | [@Flabbygo](https://github.com/Flabbygo) |
+</td>
+</tr>
+</table>
 
-## Our Philosophy
+## 03 / AI, learning & building
 
-We don't believe every idea needs to be serious, profitable or revolutionary.
+Let's address something: we use AI. Quite a bit, actually.
 
-Some ideas become useful software. Some become open-source projects. Some fail spectacularly. That's part of the process.
+From the outside, Aethory might look like an AI-focused group. But we're not here just to use AI and call ourselves experts.
 
-We build because we enjoy building. We share because others might find it useful. And we keep learning because there's always something more to explore.
+**We're here to learn how things work, improve our skills and eventually build our own technology.**
+
+We believe learning to code shouldn't require expensive tuition or costly courses. Not everyone has access to those opportunities. AI can be an incredible learning companion for people teaching themselves at home.
+
+We support responsible AI use for:
+
+- Understanding concepts and learning new skills.
+- Exploring ideas and experimenting with code.
+- Debugging, problem-solving and improving projects.
+- Making technical education more accessible.
+
+But there's a difference between using a tool to learn and using it to avoid learning.
+
+We stand against using AI for plagiarism, deception, cheating or harmful purposes.
+
+**Our goal isn't to depend on AI forever. It's to learn enough to create things of our own.**
+
+## 04 / The people
+
+Two friends. One shared space to build, experiment and learn.
+
+<div align="center">
+
+| SENKUDEVX | FLABBYGO |
+|:---:|:---:|
+| Founder | Founder |
+| [GitHub ↗](https://github.com/SENKUDEVX) | [GitHub ↗](https://github.com/Flabbygo) |
+
+</div>
+
+## 05 / What we believe
+
+- Ideas don't need permission to exist.
+- Learning matters more than pretending to know.
+- Experimentation is part of progress.
+- Good work deserves to be shared.
+- Having fun and doing meaningful work aren't mutually exclusive.
+
+We don't expect every experiment to become a success. Some projects will be useful, some will be weird, and some will probably fail.
+
+That's part of building things.
 
 ---
 
 <div align="center">
-  <sub>Never underestimate a small idea. Open-source it, and let the world take it further.</sub>
-  <br />
-  <sub>© Aethory</sub>
+
+### AETHORY
+
+**Never underestimate a small idea.**
+
+Open-source it, and let the world take it further.
+
+<br />
+
+<sub>© Aethory · Built by friends, for the fun of building.</sub>
+
 </div>
