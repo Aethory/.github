@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
 
 <img src="./aethory-logo.png" width="145" alt="Aethory logo" />
 
@@ -24,8 +23,6 @@
 <sub>Creating, experimenting and learning. One idea at a time.</sub>
 
 </div>
-
----
 
 ---
 
@@ -99,10 +96,9 @@ We stand against using AI for plagiarism, deception, cheating or harmful purpose
 
 But trust my words this much, we do condone use of ai and might even make works fully of ai, but later when we are bored or find a purpose. we will return and make every project humanised.
 
-Supporting us and our works will not only let us learn and grow but let our works and believes, work for different people. 
+Supporting us and our works will not only let us learn and grow but let our works and believes, work for different people.
 
 **Our goal isn't to depend on AI forever. It's to learn enough to create things of our own.**
-
 
 ## 04 / The People Behind Aethory
 
@@ -110,7 +106,7 @@ Supporting us and our works will not only let us learn and grow but let our work
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <a href="https://github.com/SENKUDEVX">
         <img src="https://github.com/SENKUDEVX.png?size=180"
              width="120"
@@ -125,7 +121,8 @@ Supporting us and our works will not only let us learn and grow but let our work
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td align="center" width="50%">
+
+    <td align="center" width="33.33%">
       <a href="https://github.com/Flabbygo">
         <img src="https://github.com/Flabbygo.png?size=180"
              width="120"
@@ -137,6 +134,22 @@ Supporting us and our works will not only let us learn and grow but let our work
       <sub>Co-founder</sub>
       <br /><br />
       <a href="https://github.com/Flabbygo">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+
+    <td align="center" width="33.33%">
+      <a href="https://github.com/NeonShinjuku">
+        <img src="https://github.com/NeonShinjuku.png?size=180"
+             width="120"
+             alt="NeonShinjuku" />
+      </a>
+      <br />
+      <strong>Neon Shinjuku</strong>
+      <br />
+      <sub>Member</sub>
+      <br /><br />
+      <a href="https://github.com/Neon_shinjuku">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
