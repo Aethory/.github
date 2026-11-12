@@ -106,11 +106,9 @@ Supporting us and our works will not only let us learn and grow but let our work
 
 <table>
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="33%">
       <a href="https://github.com/SENKUDEVX">
-        <img src="https://github.com/SENKUDEVX.png?size=180"
-             width="120"
-             alt="SenkuDevX" />
+        <img src="https://github.com/SENKUDEVX.png?size=180" width="120" alt="SenkuDevX" />
       </a>
       <br />
       <strong>SenkuDevX</strong>
@@ -118,15 +116,12 @@ Supporting us and our works will not only let us learn and grow but let our work
       <sub>Co-founder</sub>
       <br /><br />
       <a href="https://github.com/SENKUDEVX">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
-
-    <td align="center" width="33.33%">
+    <td align="center" width="33%">
       <a href="https://github.com/Flabbygo">
-        <img src="https://github.com/Flabbygo.png?size=180"
-             width="120"
-             alt="Flabbygo" />
+        <img src="https://github.com/Flabbygo.png?size=180" width="120" alt="Flabbygo" />
       </a>
       <br />
       <strong>Flabbygo</strong>
@@ -134,23 +129,20 @@ Supporting us and our works will not only let us learn and grow but let our work
       <sub>Co-founder</sub>
       <br /><br />
       <a href="https://github.com/Flabbygo">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
-
-    <td align="center" width="33.33%">
+    <td align="center" width="33%">
       <a href="https://github.com/NeonShinjuku">
-        <img src="https://github.com/NeonShinjuku.png?size=180"
-             width="120"
-             alt="NeonShinjuku" />
+        <img src="https://github.com/NeonShinjuku.png?size=180" width="120" alt="NeonShinjuku" />
       </a>
       <br />
       <strong>Neon Shinjuku</strong>
       <br />
       <sub>Member</sub>
       <br /><br />
-      <a href="https://github.com/Neon_shinjuku">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <a href="https://github.com/NeonShinjuku">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
   </tr>
@@ -158,7 +150,7 @@ Supporting us and our works will not only let us learn and grow but let our work
 
 <br />
 
-<sub>Two founders. Equal ownership. One shared Goal.</sub>
+<sub>Three minds. One shared vision.</sub>
 
 </div>
 
